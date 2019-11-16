@@ -1,6 +1,6 @@
-# animation_examples
+# Flutter Animations tutorial
 
-A new Flutter project.
+https://flutter.dev/docs/development/ui/animations/tutorial
 
 ## Getting Started
 
